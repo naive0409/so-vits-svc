@@ -1,0 +1,7 @@
+dataset_raw/*
+dataset/*
+__pycache__/
+*.pt
+*.pth
+logs/*
+checkpoints/*
